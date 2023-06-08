@@ -1,0 +1,19 @@
+body {
+    background-color: red;
+}
+h1 {
+    font-size: 200px;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+h1:hover {
+    cursor: none;
+}
+img:hover {
+    opacity: 0%;
+}
+button:hover {
+    opacity: 0%;
+    cursor: none;
+}
